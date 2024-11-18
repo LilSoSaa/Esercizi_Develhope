@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3c6c8c1-2db0-4634-a9bf-2dee07f7e5e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EserciziJavaBasic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casting/Casting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casting/Casting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CicliAvanzati/CicliAvanzati1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CicliAvanzati/CicliAvanzati2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoops/ForLoop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoops/ForLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funzioni/Funioni1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funzioni/Funzioni2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElseStatements/IfElseStatements1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElseStatements/IfElseStatements2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatoriAritmetici/OperatoriAritmetici1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatoriAritmetici/OperatoriAritmetici2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatoriAritmetici/OperatoriAritmetici3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatoriAssegnazione/OperatoriAssegnazione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatoriComparazione/OperatoriComparazione1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatoriComparazione/OperatoriComparazione2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatoriLogici/OperatoriLogici1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatoriLogici/OperatoriLogici2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchStatement/SwitchStatement1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchStatement/SwitchStatement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TipiPrimitiviJava/TipiPrimitiviJava1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TipiPrimitiviJava/TipiPrimitiviJava2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/While/While.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2oi0DElrTVaIdYYqpb158VjNrvv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/giova/Desktop/Develhope/JavaBasic/JavaBasic1",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3c6c8c1-2db0-4634-a9bf-2dee07f7e5e5" name="Changes" comment="" />
+      <created>1731336969726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731336969726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
